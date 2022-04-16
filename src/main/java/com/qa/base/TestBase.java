@@ -15,6 +15,8 @@ public class TestBase {
 
 	public static Properties prop;
 	
+	//its base classs
+	
 	public TestBase() 
 	{
 		try
