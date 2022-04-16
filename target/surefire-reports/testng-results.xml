@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.qa.Test.Post_MethodTest" duration-ms="4092" started-at="2020-05-04T09:01:33Z" finished-at="2020-05-04T09:01:37Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="4092" started-at="2020-05-04T09:01:33Z" finished-at="2020-05-04T09:01:37Z">
+      <class name="com.qa.Test.Post_MethodTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.Test.Post_MethodTest@7a79be86]" name="setup" is-config="true" duration-ms="34" started-at="2020-05-04T09:01:33Z" finished-at="2020-05-04T09:01:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="getAPI()[pri:0, instance:com.qa.Test.Post_MethodTest@7a79be86]" name="getAPI" duration-ms="3967" started-at="2020-05-04T09:01:33Z" finished-at="2020-05-04T09:01:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAPI -->
+      </class> <!-- com.qa.Test.Post_MethodTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qa.Test.Post_MethodTest -->
+</testng-results>
